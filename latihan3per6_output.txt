@@ -1,0 +1,9 @@
+masukan jumlah baris: 5
++
+++
++++
+++++
++++++
+
+
+** Process exited - Return Code: 0 **
